@@ -1,7 +1,6 @@
-- 👋 Hi, I’m parkmyounghoi
-- 👀 I’m interested in java,jsp,spring,springboot,c,c#,python,html,css,javascript,jquery,react,vue,docker,kubernates
-- 🌱 I’m currently learning ml,dl...etc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me to send email parkmyounghoi@gmail.com
-- 👰🧕 msa
-
+- 👋 Hi, I’m **Park Myounghoi**
+- 👀 I’m interested in **Java, JSP, Spring, Spring Boot, C, C#, Python, HTML, CSS, JavaScript, jQuery, React, Node.js, Vue, Docker, Kubernetes**
+- 🌱 I’m currently learning **machine learning (ML)** and **deep learning (DL)**, among other things
+- 💞️ I’m looking to collaborate on **open source or real-world projects**
+- 📫 You can reach me at **parkmyounghoi@gmail.com**
+- 🧑‍💻 I'm exploring **Microservices Architecture (MSA)**
